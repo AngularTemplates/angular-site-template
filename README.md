@@ -1,0 +1,2 @@
+# angular-site-template
+ Reuse the beautiful, responsive and flexible custom components we built for this Angular 6 Template. With Bootstrap 4, Angular Universal (Server Side Rendering), SEO, Lazy Loading and a detailed documentation on how to get started building Angular apps. Tons of use cases implemented the Angular way such as authentication flows, product listing, filtering, forms, routing guards and more.
