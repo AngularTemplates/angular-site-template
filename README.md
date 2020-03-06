@@ -2,9 +2,11 @@
 
 Reuse the beautiful, responsive and flexible custom components we built for this Angular 8 starter. With Bootstrap 4, Angular Universal (Server Side Rendering), SEO, Lazy Loading and a detailed documentation on how to get started building Angular apps. Tons of use cases implemented the Angular way such as authentication flows, product listing, filtering, forms, routing guards and more.
 
+[Download this Angular Starter App](https://angular-templates.io/product/angular-site-template) 
+
+
 ![Angular Site Template](https://angular-templates.s3-us-west-2.amazonaws.com/angular-site-template/angular-site-template-showcase.jpg "Angular Site Template")
 
-[Download this Angular Starter App](https://angular-templates.io/product/angular-site-template) 
 
 ## DEMO
 - [Online Demo](https://angular-templates.io/product/angular-site-template/full-preview)
